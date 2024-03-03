@@ -1,10 +1,13 @@
-﻿namespace MenuProgram
+﻿using System.Net.Security;
+
+namespace MenuProgram
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int choice = (1);
+            Console.WriteLine("HeloWord!");
 
             while (choice != 0)
             {
