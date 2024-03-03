@@ -7,8 +7,8 @@ namespace MenuProgram
         static void Main(string[] args)
         {
             int choice = (1);
-            Console.WriteLine("HeloWord!");
-
+            
+            
             while (choice != 0)
             {
                 Console.Clear();
